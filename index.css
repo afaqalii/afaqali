@@ -244,7 +244,8 @@ button:hover {
     background-image: url("sunny.png");
 }
 .sunnyside-project,
-.carastore-project  {
+.carastore-project,
+.weatherapp-project{
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -274,6 +275,10 @@ button:hover {
 .sunnyside-content,
 .cara-content {
     margin-left: 3rem;
+}
+
+.weatherapp-project {
+    background-color: darkblue;
 }
 .btns button a {
     text-decoration: none;
