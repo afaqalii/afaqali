@@ -254,6 +254,9 @@ button:hover {
 .carastore-project {
     background-image: url("cara.png");
 }
+.sass-product {
+   background-color: #5368DF;
+}
 .project-content {
     display: flex;
     flex-direction: column;
