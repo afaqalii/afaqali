@@ -670,7 +670,10 @@ footer {
 
 
 
-
+.seven-container__buttons button a {
+    text-decoration: none;
+    color:white;
+ }
 
 
 
